@@ -3,6 +3,9 @@
 ## Overview
 The Simple Finance Dashboard is a Streamlit-based web application designed to help users analyze their financial transactions by uploading bank statements in CSV or Excel format. It provides insights into income, expenses, savings rates, monthly trends, budgeting, and expense distribution, with interactive filtering and visualization capabilities. The app currently supports Paytm Passbook files (CSV and Excel formats) and can be extended to support other bank formats.
 
+**Experience the dashboard live!** You can access the deployed application here:
+[**https://financedashboard57.streamlit.app/**)
+
 ## Features
 - **File Upload**: Supports Paytm Passbook in CSV and Excel formats for transaction data.
 - **Financial Summary**: Displays total income, total expenses, net flow, and savings rate with a tooltip for clarity.
