@@ -54,7 +54,7 @@ To run the Simple Finance Dashboard, ensure you have the following installed:
    - Review the top income and expense transactions.
 
 ## Project Snapshots
-<img width="1920" height="1080" alt="Screenshot 2025-07-30 111616" src="https://github.com/user-attachments/assets/82030a5a-ae49-4e11-a5cd-fcf2b351b1b4" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-30 111616" src="https://github.com/user-attachments/assets/0b75a535-c1d4-473d-85b7-c5c34f3856dc" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 111645" src="https://github.com/user-attachments/assets/5115880d-0f08-4167-a37f-3a1f4785d09a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cc07a81-da82-4acd-a37f-222e99bdad0f" />
 
